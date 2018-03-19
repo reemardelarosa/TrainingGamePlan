@@ -1,9 +1,13 @@
 # TrainingGamePlan
 > Below are my diary and documentation I personally apply to advance and promote myself. - John Reemar Dela Rosa, jrddelarosa@gmail.com
 
+> Remember the LORD your God, for it is he who gives you the ability to produce wealth... Deut. 8:18.
+
+> Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is--his good, pleasing and perfect will. Romans 12:2
+
 > (WHY?) => { I started with `Why?` because it is the foundation of everything. You can't just tell yourself to grow without the reason why your doing it. More of inspiration, daily motivation and removing the barriers of learning. }
 
->(HOW?) => { You can speed up learning by mastering the process. I listed videos on how to make learning easier, enjoyable anf faster. What turns your learning on? }
+>(HOW?) => { You can speed up learning by mastering the process. I listed videos on how to make learning easier, enjoyable and faster. What turns your learning on? }
 
 >(WHEN?) => { The best time to learn is when you are most relaxed and motivated.  }
 
@@ -35,7 +39,8 @@ https://youtu.be/5MgBikgcWnY
 How to Learn Faster with the Feynman Technique
 https://www.youtube.com/watch?v=_f-qkGJBPts
 
-
+### The best course for finding your dream job(Decommoditizing Yourself, Networking, Interviewing and Negotiation) is...
+- [Finding Your Dream Job](https://www.iwillteachyoutoberich.com/find-your-dream-job/)  by Ramit Sethi
 
 ## When?
 The 9 BEST Scientific Study Tips
