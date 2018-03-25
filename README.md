@@ -42,6 +42,8 @@ https://www.youtube.com/watch?v=_f-qkGJBPts
 ### The best course for finding your dream job(Decommoditizing Yourself, Networking, Interviewing and Negotiation) is...
 - [Finding Your Dream Job](https://www.iwillteachyoutoberich.com/find-your-dream-job/)  by Ramit Sethi
 
+> I usually lsitens to music that wakes my soul while studying. [Here is the sample playlist](https://www.youtube.com/watch?v=C6rziIUQMUs&index=2&list=RDXOCZ1KqRnPc)
+
 ## When?
 The 9 BEST Scientific Study Tips
 https://www.youtube.com/watch?v=rxcVAcCcxeM
