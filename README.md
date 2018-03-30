@@ -132,3 +132,10 @@ https://www.pluralsight.com/paths/java
 
 ```
 
+8. Adobe Analytics for Developers
+```
+Learning Path(Basic - Advanced):
+https://www.pluralsight.com/paths/adobe-analytics-for-developers
+
+```
+
