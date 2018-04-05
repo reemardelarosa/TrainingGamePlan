@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=7XXbyvdLgVM
 
 - [Finding Your Dream Job](https://www.iwillteachyoutoberich.com/find-your-dream-job/)  by Ramit Sethi
 
-> I usually lsitens to music that wakes my soul while studying. [Here is the sample playlist](https://www.youtube.com/watch?v=C6rziIUQMUs&index=2&list=RDXOCZ1KqRnPc)
+> I usually listens to music that wakes my soul while studying. [Here is the sample playlist](https://www.youtube.com/watch?v=C6rziIUQMUs&index=2&list=RDXOCZ1KqRnPc)
 
 ## When?
 [The 9 BEST Scientific Study Tips](https://www.youtube.com/watch?v=rxcVAcCcxeM)
@@ -73,56 +73,56 @@ https://www.youtube.com/watch?v=7XXbyvdLgVM
 
 *Courses*
 1. HTML & HTML5
-[Learning Path(Basic - Advanced)](https://www.pluralsight.com/paths/html5)
+- [Learning Path(Basic - Advanced)](https://www.pluralsight.com/paths/html5)
 
 2. CSS
 
-[Learning Path(Basic - Advanced)](https://www.pluralsight.com/paths/css)
+- [Learning Path(Basic - Advanced)](https://www.pluralsight.com/paths/css)
 
 3. Javascript
 
-[Learning Path(Basic - Advanced)](https://www.pluralsight.com/paths/javascript)
+- [Learning Path(Basic - Advanced)](https://www.pluralsight.com/paths/javascript)
 
-Highest Rated Training and Most Number of Students:
+ Highest Rated Training and Most Number of Students:
 
-[JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
+- [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
 
-[The Complete JavaScript Course 2018: Build Real Projects!](https://www.udemy.com/the-complete-javascript-course/)
+- [The Complete JavaScript Course 2018: Build Real Projects!](https://www.udemy.com/the-complete-javascript-course/)
 
 
 3. Front End Web Development
-[Basic: Front End Web Development: Get Started](https://www.pluralsight.com/courses/front-end-web-development-get-started)
+- [Basic: Front End Web Development: Get Started](https://www.pluralsight.com/courses/front-end-web-development-get-started)
 
-[Tactics and Tools for Troubleshooting Front-end Web Development](https://www.pluralsight.com/courses/tactics-tools-troubleshooting-front-end-web-development)
+- [Tactics and Tools for Troubleshooting Front-end Web Development](https://www.pluralsight.com/courses/tactics-tools-troubleshooting-front-end-web-development)
 
-[The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+- [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 
 4. Polymer
 
-[Basic: Getting Started with Polymer.js](https://www.pluralsight.com/courses/polymer-js-getting-started)
+- [Basic: Getting Started with Polymer.js](https://www.pluralsight.com/courses/polymer-js-getting-started)
 
-[Intermediate: Working with Polymer.js Elements](https://www.pluralsight.com/courses/polymer-js-elements-working)
+- [Intermediate: Working with Polymer.js Elements](https://www.pluralsight.com/courses/polymer-js-elements-working)
 
-[Advanced: Building a Web Application with Polymer.js and Material Design](https://www.pluralsight.com/courses/building-web-application-polymer-material-design)
+- [Advanced: Building a Web Application with Polymer.js and Material Design](https://www.pluralsight.com/courses/building-web-application-polymer-material-design)
 
 5. AngularJS
 
-[Learning Path(Basic - Advanced)](https://www.pluralsight.com/paths/angular-js)
+- [Learning Path(Basic - Advanced)](https://www.pluralsight.com/paths/angular-js)
 
 Highest Rated Training:
-[Angular 5 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/)
+- [Angular 5 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/)
 
 
 6. JQuery
-[Learning Path(Basic - Advanced)](https://www.pluralsight.com/paths/jquery)
+- [Learning Path(Basic - Advanced)](https://www.pluralsight.com/paths/jquery)
 
 7. Java
-[Learning Path(Basic - Advanced)](https://www.pluralsight.com/paths/java)
+- [Learning Path(Basic - Advanced)](https://www.pluralsight.com/paths/java)
 
 
 8. Adobe Analytics for Developers
 
-[Learning Path(Basic - Advanced)](https://www.pluralsight.com/paths/adobe-analytics-for-developers)
+- [Learning Path(Basic - Advanced)](https://www.pluralsight.com/paths/adobe-analytics-for-developers)
 
 
 9. Clean Code is the Foundation
