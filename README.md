@@ -80,7 +80,7 @@ https://www.pluralsight.com/paths/html5
 Learning Path(Basic - Advanced):
 https://www.pluralsight.com/paths/css
 ```
-2. Javascript
+3. Javascript
 ```
 Learning Path(Basic - Advanced):
 https://www.pluralsight.com/paths/javascript
@@ -138,4 +138,15 @@ Learning Path(Basic - Advanced):
 https://www.pluralsight.com/paths/adobe-analytics-for-developers
 
 ```
+
+9. Clean Code is the Foundation
+
+- [Clean Code](https://app.pluralsight.com/library/courses/writing-clean-code-humans/table-of-contents)
+- [Solid Code](https://www.pluralsight.com/courses/principles-oo-design)
+- [Automated Testing](https://app.pluralsight.com/library/courses/automated-testing-fraidy-cats/table-of-contents)
+- [Refactoring](https://www.pluralsight.com/courses/refactoring-fundamentals)
+- [Domain Driven Design(DDD)](https://www.pluralsight.com/courses/patterns-library)
+- [Test Driven Development](https://www.pluralsight.com/courses/outside-in-tdd)
+- [Design Patterns](https://app.pluralsight.com/library/courses/patterns-library/)
+
 
