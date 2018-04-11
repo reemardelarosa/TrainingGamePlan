@@ -105,6 +105,10 @@ https://www.youtube.com/watch?v=7XXbyvdLgVM
 
 - [Advanced: Building a Web Application with Polymer.js and Material Design](https://www.pluralsight.com/courses/building-web-application-polymer-material-design)
 
+- [Learning Polymer 2.0](https://www.linkedin.com/learning/learning-polymer/)
+
+- [Learning Web Components](https://www.linkedin.com/learning/learning-web-components/)
+
 5. AngularJS
 
 - [Learning Path(Basic - Advanced)](https://www.pluralsight.com/paths/angular-js)
