@@ -64,10 +64,10 @@ https://www.youtube.com/watch?v=7XXbyvdLgVM
 > Research says that if you did not pay for your training, you won't follow through. But you can motivate yourself to learn everyday by changing your mindset that learning and training is your greatest investment.
 
 #### [Pluralsight, Linkedin Learning etc.](https://my.visualstudio.com)
-1. Create a Microsoft live account from here. You don’t have to create one if you already have one.
+1. Create a Microsoft live account from [here](https://home.live.com/). You don’t have to create one if you already have one.
 2. Now, go to https://my.visualstudio.com and create an account with your Microsoft live id.
-3. You will see the visual studio dev essentials page with pluralsight 6 months subscription option.
-4. Click “Get Coupon” option and then click activate link as shown in the image below.
+3. You will see the visual studio dev essentials page with Pluralsight and Linkedin Learning 3 months subscription option.
+4. Click “Activate” option and then click get coupon link as shown in the image below.
 
 #### [Udemy](https://www.retailmenot.com/view/udemy.com)
 
